@@ -1,4 +1,8 @@
 git is a control system
 
 creating a new branch 
-fjfdsfs
+
+
+
+Creating a new branch is quick AND simple.
+
