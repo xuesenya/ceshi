@@ -1,4 +1,4 @@
 git is a control system
 
 creating a new branch 
-fjf
+Creating a new branch is quick AND simple.
